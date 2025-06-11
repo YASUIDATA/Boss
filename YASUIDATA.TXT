@@ -1,4 +1,3 @@
 vless://f4dbc823-f96d-47e6-bb25-709b85cb7262@cdn-assets.yasuidata.xyz:443?type=tcp&security=reality&pbk=hM0aOAb_jUwY8q121hBvJqTWq-16ish-QDnhyFQCzkI&fp=chrome&sni=www.softbank.jp&sid=66866fdb854d62&spx=%2F&flow=xtls-rprx-vision#FAST-Boss1
-vless://2fbdde2c-4e1d-45ca-afaa-4e8150feb0b2@cdn-assets.googleusercontent-safe.online:443?type=tcp&security=reality&pbk=XwIE_dfI4hG9s1Kfj_0B9zG_FutuM86lug9oIRf01F4&fp=chrome&sni=www.softbank.jp&sid=e7d991a6cac0b601&spx=%2F&flow=xtls-rprx-vision#FAST-Boss2
+vless://2fbdde2c-4e1d-45ca-afaa-4e8150feb0b2@45.32.15.107:443/?type=tcp&security=reality&pbk=XwIE_dfI4hG9s1Kfj_0B9zG_FutuM86lug9oIRf01F4&fp=chrome&sni=www.softbank.jp&sid=e7d991a6cac0b601&spx=%2F&flow=xtls-rprx-vision#FAST-Boss2
 vless://d2c43da2-1d60-440e-9958-eb0863e5b970@5.104.80.188:443?type=tcp&security=reality&pbk=M47txNWsav3pjxSi-W1vEndurOzcsmSn1h9NlEqciXs&fp=chrome&sni=www.softbank.jp&sid=68&spx=%2F&flow=xtls-rprx-vision#FULL%20DUNG%20LUONG-Bossc
-vless://2ebe3f5f-db20-4f2a-baad-fbd86a3ea0d0@googleusercontent-safe.online:46266?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#Fast%20SB-boss
