@@ -1,4 +1,4 @@
-http://162.43.19.218:2096/sub/Boss%20Xsever
+vless://36ab9c1d-4e07-4ee3-a122-0f70cdcb69e2@162.43.19.218:443?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#FULL-Xsever
 
 http://45.77.9.169:2096/sub/Boss%20SV1
 
