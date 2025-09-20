@@ -1,8 +1,9 @@
-vless://f4dbc823-f96d-47e6-bb25-709b85cb7262@yasuidata.xyz:443?type=tcp&security=reality&pbk=wuLHW9dN_zRMm20SavjO0ytthoDyn3qaypGSF9QrsE0&fp=chrome&sni=www.softbank.jp&sid=981108ad2eb6c6&spx=%2F&flow=xtls-rprx-vision#FAST-YASUIDATA%201
+vless://36ab9c1d-4e07-4ee3-a122-0f70cdcb69e2@162.43.19.218:443?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#FULL-999
 
-vless://2fbdde2c-4e1d-45ca-afaa-4e8150feb0b2@yasdat.xyz:443?type=tcp&security=reality&pbk=XwIE_dfI4hG9s1Kfj_0B9zG_FutuM86lug9oIRf01F4&fp=chrome&sni=www.softbank.jp&sid=e7d991a6cac0b601&spx=%2F&flow=xtls-rprx-vision#FAST-YASUIDATA%202
+vless://8d866887-1898-4682-b2cc-9c46566280da@45.77.9.169:27206?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#TOC%20DO%20CAO-999
 
-vless://f8eebd66-e2e8-4b02-bd50-60ad2c771b01@167.179.71.8:443?type=tcp&security=reality&pbk=HgtZKQ08cS9Nlx5VFI-n9kV_kVfDLn8xJy2ybA-miAc&fp=chrome&sni=www.softbank.jp&sid=50da4387b6fdac&spx=%2F&flow=xtls-rprx-vision#FAST-YASUIDATA%203
+vless://cf1af867-aed8-4688-be9b-03923db00a83@5.104.80.188:26770?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#DU%20PHONG-999
 
-vless://d2c43da2-1d60-440e-9958-eb0863e5b970@v3b.yasuidata.xyz:443?type=tcp&security=reality&pbk=M47txNWsav3pjxSi-W1vEndurOzcsmSn1h9NlEqciXs&fp=chrome&sni=www.softbank.jp&sid=68&spx=%2F&flow=xtls-rprx-vision#FULL%20DUNG%20LUONG-YASUIDATA%20F
+vless://a1366864-0b5a-4599-bdcf-5c046d224580@45.32.15.107:40004?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#TOC%20DO%20CAO-999
 
+vless://0d4e0dbf-056c-4adb-a746-5a8804925464@167.179.71.8:25501?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#TOC%20DO%20CAO-999
