@@ -1,9 +1,9 @@
 vless://36ab9c1d-4e07-4ee3-a122-0f70cdcb69e2@162.43.19.218:443?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#FULL-Xsever
 
-http://45.77.9.169:2096/sub/Boss%20SV1
+vless://8d866887-1898-4682-b2cc-9c46566280da@45.77.9.169:27206?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#TOC%20DO%20CAO-SV1
 
-vless://cf1af867-aed8-4688-be9b-03923db00a83@5.104.80.188:26770?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#DU%20PHONG-999
+vless://cf1af867-aed8-4688-be9b-03923db00a83@5.104.80.188:26770?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#DU%20PHONG-CONTABO
 
-vless://a1366864-0b5a-4599-bdcf-5c046d224580@45.32.15.107:40004?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#TOC%20DO%20CAO-999
+vless://a1366864-0b5a-4599-bdcf-5c046d224580@45.32.15.107:40004?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#TOC%20DO%20CAO-SV2
 
-vless://0d4e0dbf-056c-4adb-a746-5a8804925464@167.179.71.8:25501?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#TOC%20DO%20CAO-999
+vless://0d4e0dbf-056c-4adb-a746-5a8804925464@167.179.71.8:25501?type=tcp&encryption=none&path=%2F&host=www.softbank.jp&headerType=http&security=none#TOC%20DO%20CAO-SV3
